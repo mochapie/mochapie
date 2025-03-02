@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm an undergraduate student majoring in Computer Science.\n
+I'm an undergraduate student majoring in Computer Science.
 🍨 I love spending time at cafes.
 <!--
 **mochapie/mochapie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
